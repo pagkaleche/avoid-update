@@ -1,4 +1,7 @@
 {
-    "version": "v6.4.11",
-    "url": "https://github.com/pagkaleche/avoid-updates/releases/download/v6.4.4/032.zip?v=v6.4.11"
+    "version": "v6.5.0",
+    "update_type": "patch",
+    "url": "https://github.com/pagkaleche/avoid-updates/releases/download/v6.4.5/032-patch.zip?v=v6.5.0",
+    "patch_url": "https://github.com/pagkaleche/avoid-updates/releases/download/v6.4.5/032-patch.zip?v=v6.5.0",
+    "full_url": "https://github.com/pagkaleche/avoid-updates/releases/download/v6.4.4/032-full.zip?v=v6.5.0"
 }
